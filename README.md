@@ -1,6 +1,5 @@
 
-![Design and Development](https://github.com/ROOXERA/ROOXERA/blob/master/BANNER.jpeg)
-<h1 align="center">Hi 👋, I'm a startup ROOXERA</h1>
+<h1 align="center">Hi , I'm a startup ROOXERA</h1>
 <h3 align="center">I am rushil a 16yr old student who is building this startup  which  helps people around the globe to code and give amazing quality content to clients :) Most of the code I post here is showed/created here is what ever I get inspired , I love to play with code and build amazing stuff with it.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rooxera&label=Profile%20views&color=3a7efd&style=plastic" alt="rooxera" /> </p>
 <p align="left"> <a href="https://twitter.com/rushil29148097" target="blank"><img src="https://img.shields.io/twitter/follow/rushil29148097?logo=twitter&style=for-the-badge" alt="rushil29148097" /></a> </p>
